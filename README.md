@@ -47,9 +47,16 @@ validar red
 
 ![image](https://github.com/user-attachments/assets/4b15a4c9-4044-422e-b436-4ecf1bca7a6f)
 ---
-
-
 Paso 2: Crear volúmenes para almacenamiento persistente
+Volumen wordpress-data
+
+![image](https://github.com/user-attachments/assets/7d0bbf41-c78f-4085-84d2-92a877cec74a)
+---
+
+Volumen mysql-data
+
+![image](https://github.com/user-attachments/assets/dabe2344-6805-400c-9578-5ee10f734217)
+
 
 Paso 3: Crear y ejecutar el contenedor de MySQL
 
