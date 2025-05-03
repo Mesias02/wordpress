@@ -1,7 +1,7 @@
 ## 1. Título
 Implementación de Contenedores en Docker para Hospedar un Sitio WordPress
 
-![image](https://github.com/user-attachments/assets/9e81b672-f1d0-4996-994d-4b82099c57b8)
+![image](https://github.com/user-attachments/assets/490af1a0-e546-4041-9a2d-e113fa5c284d)
 ---
 ## 2. Tiempo de duración
 Tiempo estimado: 120 minutos
