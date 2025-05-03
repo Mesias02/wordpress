@@ -12,7 +12,7 @@ Docker permite la ejecución de aplicaciones en contenedores, proporcionando un 
 El objetivo es desplegar los contenedores de manera eficiente, asegurando que cada uno de ellos esté correctamente interconectado dentro de una red de Docker para permitir la comunicación entre servicios. Según Docker Inc. (n.d.), la modularidad y eficiencia de los contenedores facilitan el despliegue de aplicaciones sin interferencias en el sistema anfitrión.
 
 ## 4. Conocimientos previos
-Para completar esta práctica, el estudiante debe tener conocimientos en:
+Para completar esta práctica, se debe tener conocimientos en:
 
 Comandos básicos de Docker, como creación y gestión de contenedores (Red Hat, 2023).
 
