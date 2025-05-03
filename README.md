@@ -44,7 +44,9 @@ Paso 1: Crear una red para la comunicación entre contenedores
 ![image](https://github.com/user-attachments/assets/1cc970bf-01cf-4f27-a194-ffbc313acfcd)
 ---
 validar red
+
 ![image](https://github.com/user-attachments/assets/4b15a4c9-4044-422e-b436-4ecf1bca7a6f)
+---
 
 
 Paso 2: Crear volúmenes para almacenamiento persistente
