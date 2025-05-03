@@ -67,14 +67,14 @@ Paso 5: Crear y ejecutar el contenedor de WordPress
 Paso 6: Validar que los contenedores estén corriendo
 
 
-9. Resultados esperados
+## 9. Resultados esperados
 Los contenedores deben estar correctamente creados y en ejecución.
 
 La red debe permitir la comunicación entre WordPress, MySQL y phpMyAdmin.
 
 Los datos deben permanecer almacenados en los volúmenes asignados.
 
-10. Bibliografía
+## 10. Bibliografía
 Docker Inc. (n.d.). Docker documentation. Recuperado de https://docs.docker.com/
 
 Red Hat. (2023). Introducción a la gestión de contenedores. Recuperado de https://www.redhat.com/es/topics/containers
