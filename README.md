@@ -1,5 +1,7 @@
 ## 1. Título
 Implementación de Contenedores en Docker para Hospedar un Sitio WordPress
+![image](https://github.com/user-attachments/assets/9e81b672-f1d0-4996-994d-4b82099c57b8)
+---
 
 ## 2. Tiempo de duración
 Tiempo estimado: 120 minutos
@@ -58,14 +60,21 @@ Volumen mysql-data
 ![image](https://github.com/user-attachments/assets/dabe2344-6805-400c-9578-5ee10f734217)
 
 
-Paso 3: Crear y ejecutar el contenedor de MySQL
+Paso 3: Crear y validar el contenedor de MySQL
+![image](https://github.com/user-attachments/assets/04020c10-aa42-4cf3-a872-8cb57b09c1dd)
+---
+![image](https://github.com/user-attachments/assets/0d9df285-36b4-4462-b7b0-a9e2664df144)
 
-Paso 4: Crear y ejecutar el contenedor de phpMyAdmin
+Paso 4: Crear y validar el contenedor de phpMyAdmin
+![image](https://github.com/user-attachments/assets/880cc46b-8f47-4697-a542-7ae5ab801962)
+---
+![image](https://github.com/user-attachments/assets/17e07ec6-9d86-4c9a-a2e3-11d06057dc06)
 
-Paso 5: Crear y ejecutar el contenedor de WordPress
+Paso 5: Crear el contenedor de WordPress
+![image](https://github.com/user-attachments/assets/6d465854-1315-42e3-aace-c57bd7d36049)
 
 Paso 6: Validar que los contenedores estén corriendo
-
+![image](https://github.com/user-attachments/assets/2d69dcef-5741-4f0b-b408-e5727c704809)
 
 ## 9. Resultados esperados
 Los contenedores deben estar correctamente creados y en ejecución.
