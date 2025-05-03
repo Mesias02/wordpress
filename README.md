@@ -2,15 +2,12 @@
 Implementación de Contenedores en Docker para Hospedar un Sitio WordPress
 
 ## 2. Tiempo de duración
-Tiempo estimado: XX minutos
+Tiempo estimado: 120 minutos
 
 ## 3. Fundamentos
 Docker permite la ejecución de aplicaciones en contenedores, proporcionando un entorno independiente que simplifica la administración de software. En este caso, se crearán los contenedores necesarios para un sitio WordPress, incluyendo una base de datos MySQL y una herramienta de gestión phpMyAdmin, sin necesidad de configuraciones adicionales dentro de los contenedores.
 
 El objetivo es desplegar los contenedores de manera eficiente, asegurando que cada uno de ellos esté correctamente interconectado dentro de una red de Docker para permitir la comunicación entre servicios. Según Docker Inc. (n.d.), la modularidad y eficiencia de los contenedores facilitan el despliegue de aplicaciones sin interferencias en el sistema anfitrión.
-
-Figura 1-1. Arquitectura de contenedores para WordPress
-(Incluir imagen con ancho máximo de 800px)
 
 ## 4. Conocimientos previos
 Para completar esta práctica, el estudiante debe tener conocimientos en:
@@ -44,6 +41,11 @@ Cheat sheet de comandos en Linux.
 
 ## 8. Procedimiento
 Paso 1: Crear una red para la comunicación entre contenedores
+![image](https://github.com/user-attachments/assets/1cc970bf-01cf-4f27-a194-ffbc313acfcd)
+---
+validar red
+![image](https://github.com/user-attachments/assets/4b15a4c9-4044-422e-b436-4ecf1bca7a6f)
+
 
 Paso 2: Crear volúmenes para almacenamiento persistente
 
